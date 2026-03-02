@@ -40,6 +40,10 @@ Technical Showcase
 [!IMPORTANT]
 
 Privacy Note: Screenshots below use anonymized figures to comply with Ministry data security protocols
+<img width="1880" height="868" alt="Image" src="https://github.com/user-attachments/assets/0f45ba6b-5450-4aae-9933-3b4d6ffa21ec" />
+<img width="1904" height="877" alt="Image" src="https://github.com/user-attachments/assets/ad73100d-03fb-489e-94fa-06dcd0441275" />
+<img width="1908" height="873" alt="Image" src="https://github.com/user-attachments/assets/08da6b05-7d45-4109-8d6f-029d54e2401d" />
+<img width="1905" height="868" alt="Image" src="https://github.com/user-attachments/assets/5c3caf25-570c-43ca-b0ff-aafef632d924" />
 Repository Structure
 /backend: Django project structure (Models, Views, GIS Logic).
 
